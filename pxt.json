@@ -1,5 +1,6 @@
 {
     "name": "Microsoft Windows 11 (Makecode Edtion)",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
